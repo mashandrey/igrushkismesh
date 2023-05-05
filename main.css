@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: crimson;
+    color: rgb(73, 0, 0);
+    padding: 15px;
+    border-radius: 20px;
+}
+
+header a {
+    color: white;
+}
+
+h1 {
+    background-color: chocolate;
+    color: bisque;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: mistyrose;
+    color: salmon;
+}
+
+nav {
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(171, 0, 109);
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.aestetikproduct {
+    background-color: pink;
+    border-radius: 10px;
+}
